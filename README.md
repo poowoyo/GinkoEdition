@@ -1,2 +1,2 @@
-# GinkoEdition
-IsletOnline GinkoEditionResourcePack
+# GinkgoEdition
+IsletOnline GinkgoEditionResourcePack
